@@ -4,3 +4,5 @@ Third is the smartest pig
 Add a fourth line for feature branch
 
 Skip the the sixth line
+
+Hello I'm eight, going to have a fortune.
