@@ -2,7 +2,7 @@ This is the first line.
 We're having the second class.
 Third is the smartest pig
 Add a fourth line for feature branch
-
+This is the fifth line from our feature branch.
 Skip the the sixth line
 
 Hello I'm eight, going to have a fortune.
